@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+zabbix:
+  api:
+    url: http://zabbix.skmns.co.kr/api_jsonrpc.php
+    username: skmns_zabbixapi
+    password: TJCH!tpsxj
